@@ -1,0 +1,1 @@
+﻿SELECT DISTINCT  Avtor FROM Viraz

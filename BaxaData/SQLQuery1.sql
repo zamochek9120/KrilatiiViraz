@@ -1,0 +1,1 @@
+﻿ SELECT * FROM Viraz WHERE Rik =1839
